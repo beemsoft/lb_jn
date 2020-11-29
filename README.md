@@ -64,6 +64,8 @@ When you wave your hand in front of Vernie, the latest name will be forgotten.
 ### Demo video
 [![demo-video](img/video1.jpg)](https://youtu.be/sUXfhjZMqto)
 
+### Instruction video
+[![instruction-video](img/video2.jpg)](https://youtu.be/KKI2xkKXrQw)
 
 
 ### Extra required hardware
