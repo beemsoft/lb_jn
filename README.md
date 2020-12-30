@@ -145,7 +145,6 @@ This library uses [dlib](http://dlib.net/), which is CUDA enabled by default
 ```
 sudo apt-get install cmake libopenblas-dev liblapack-dev libjpeg-dev
 sudo pip3 install Cython face_recognition
-sudo pip3 install dlib
 ```
 > The installation of dlib can take almost one hour on the Jetson Nano.
 
