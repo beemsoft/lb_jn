@@ -143,7 +143,7 @@ In this demo, OpenCV is only used for capturing images. For face recognition, we
 This library uses [dlib](http://dlib.net/), which is CUDA enabled by default
 
 ```
-sudo apt-get install cmake libopenblas-dev liblapack-dev libjepg-dev
+sudo apt-get install cmake libopenblas-dev liblapack-dev libjpeg-dev
 sudo pip3 install Cython face_recognition
 sudo pip3 install dlib
 ```
